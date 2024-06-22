@@ -1,0 +1,16 @@
+body{
+    color: rgb(24, 24, 100);
+    font-family: "Teko", sans-serif;
+}
+
+.div1{
+    color: blue;
+}
+
+.div2{
+    color: purple;
+}
+
+footer{
+    text-align: center;
+}

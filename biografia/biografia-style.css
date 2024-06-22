@@ -1,0 +1,13 @@
+body{
+    color: white;
+    background-color: gray;
+    font-family: "Teko", sans-serif;
+}
+
+.divpas{
+    text-align: center;
+}
+
+.divcom{
+    text-align: end;
+}
